@@ -36,3 +36,22 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+### 초기설정
+
+``` bash
+cd C:\Users\NEOFORTH0805\git\siro9866.github.hexo
+npm install
+hexo serve -o
+```
+
+### 핵소명령어
+
+``` bash
+// 파일생성
+$ hexo new post testpage
+
+// 클린
+$ hexo clean
+```
+More info: [Deployment](https://futurecreator.github.io/2016/06/21/hexo-basic-usage/)
